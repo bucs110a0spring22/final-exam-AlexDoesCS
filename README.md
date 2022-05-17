@@ -13,7 +13,7 @@ Please make sure you have completed the soot survey at:
 
 Please list the urls for the APIs you used:
 http://dog-api.kinduff.com/api/facts
-https://cataas.com
+[https://cataas.com](https://dog.ceo/api/breeds/image/random/dog)
 
 Summary of Program:
 I wanted to combine a fact API with images so I made a code that when ran, it provides Dog Facts while showing a random image of a dog!
